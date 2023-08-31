@@ -12,4 +12,4 @@ Team member : SK Akbar basha
 
 Team member : S Sharath kumar
 
-Department: COMPUTER SCIENCE AND ENGINEERING
+Department: COMPUTER SCIENCE AND ENGINEERING, MECHANICAL ENGINEERING 
